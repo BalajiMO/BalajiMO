@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Balaji M
-- 👀 I’m interested in Web developmeny
-- 🌱 I’m currently learning artificial intelligence and machine learing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 Hi, I’m @Balaji M
 
-<!---
-BalajiMO/BalajiMO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Software Development and AI
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
+- 💞️ I’m looking to collaborate on exciting tech projects related to web or AI
+- 📫 How to reach me: [balaji01092004@gmail.com]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love combining creative design with smart tech solutions!
+
